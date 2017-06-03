@@ -3,6 +3,7 @@
 ## Mod 3 Deliverables:
 
 [Jack Bevis Resume](https://docs.google.com/document/d/1ZINf42VV3KjVoJUJ6LbClDHrhVUeqb-GYuS4dn6CaT4/edit?usp=sharing)
+[Flower Diagram](https://gist.github.com/jbevis/1be0612adff6abc0c47dd8af7f02e7a2)
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
 * Link to Trello Board with companies that are being tracked: 
