@@ -12,6 +12,7 @@
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+[Jack Bevis Practice Interview Reflections](https://gist.github.com/jbevis/af9b7fc701da9bc9153c90b597addd84)
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 
 ## Mod 3 Deliverables:
